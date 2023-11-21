@@ -1,3 +1,7 @@
+## Deskripsi
+
+ADR Programming menyediakan layanan untuk pembuatan aplikasi berbasis web atau mobile. ADR Programming frontend ini merupakan tampilan dari web yang berisi tentang informasi mengenani ADR programming, seperti: informasi layanan, informasi metode pembayaran, dan faq. contoh tampilan dapat dilihat pada folder SS
+
 # adr-programming
 
 This template should help get you started developing with Vue 3 in Vite.
